@@ -2,18 +2,21 @@
 
 ## Overview
 
-This DeepTrackAI repository contains a sequence of images of quantum dots, created by Carlo Manzo at the University of Vic - Central University of Catalonia, Spain.
+This DeepTrackAI repository contains a 500-frames long movie of quantum dots labeling integrin alpha5beta1 diffusing on the membrane of HeLa cells. The movie was recorded by Sergi Masó-Orriols and Carlo Manzo.
 
-- **Dataset Size**: 500 images
+## Summary
+- **Dataset Size**: 500 frames
 - **Image Size**: 1200 * 1200 pixels
-- **Color**: Grayscale
+- **Color**: Grayscale 12 bit
+- **Frame Rate**: 60 Hz
+- **Pixel Size**: 109.97 nm
 
 ---
 
 ## Original Source
 
 - **Title:** Quantum Dots Dataset  
-- **Authors:** [Carlo Manzo](https://orcid.org/0000-0002-8625-0996)  
+- **Authors:** Sergi Masó-Orriols and Carlo Manzo 
 - **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 If you use this dataset in your research, you must follow the licensing requirements and properly attribute the original authors.
