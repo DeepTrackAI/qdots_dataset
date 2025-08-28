@@ -2,21 +2,21 @@
 
 ## Overview
 
-This DeepTrackAI repository contains a 500-frame movie of quantum dots labeling integrin α5β1 diffusing on the membrane of HeLa cells. The movie was recorded by Sergi Masó-Orriols and Carlo Manzo.
+This DeepTrackAI repository contains a 500-frame movie of quantum dots (Qdot655) labeling occludin molecules diffusing on the membrane of Caco-2 cells. The movie was recorded with 488-nm excitation.
 
 ### Summary
 - **Dataset Size**: 500 frames  
 - **Image Size**: 1200 × 1200 pixels  
 - **Format**: 12-bit grayscale TIF images  
-- **Frame Rate**: 60 fps (frames per second)  
-- **Pixel Size**: 109.97 nm/pixel  
+- **Frame Rate**: 30 fps (frames per second)  
+- **Pixel Size**: 109.7 nm/pixel  
 
 ---
 
 ## Original Source
 
 - **Title**: Quantum Dots Dataset  
-- **Authors**: Sergi Masó-Orriols and Carlo Manzo  
+- **Authors**: Montse Masoliver, Sergi Masó-Orriols, Marta Cullell-Dalmau, Joan Bertran, and Carlo Manzo    
 - **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 If you use this dataset, please follow the licensing requirements and provide proper attribution to the original authors.
@@ -49,6 +49,16 @@ cd qdots_dataset
 
 When using this dataset, please provide attribution to the original authors.
 
+### Cite the dataset:
+Masoliver M, Masó-Orriols S, Cullell-Dalmau M, Bertran J, Manzo C. *Quantum Dots Dataset.* (2020)
+
+```bibtex
+@misc{masoliver2020qdots,
+  title        = {Quantum Dots Dataset},
+  author       = {Masoliver, M and Masó-Orriols, S and Cullell-Dalmau, M and Bertran, J and Manzo, C},
+  year         = {2020},
+}
+```
 ---
 
 ## License
