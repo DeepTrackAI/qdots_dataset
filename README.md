@@ -5,11 +5,13 @@
 This DeepTrackAI repository contains a 500-frame movie of quantum dots (Qdot655) labeling occludin molecules diffusing on the membrane of Caco-2 cells. The movie was recorded with 488-nm excitation.
 
 ### Summary
-- **Dataset Size**: 500 frames  
-- **Image Size**: 1200 × 1200 pixels  
-- **Format**: 12-bit grayscale TIF images  
-- **Frame Rate**: 30 fps (frames per second)  
-- **Pixel Size**: 109.7 nm/pixel  
+- **Number of images**: 500 frames
+- **Image size**: 1200 × 1200 pixels  
+- **Image format**: 12-bit grayscale TIFF
+
+### Experimental parameters
+- **Frame rate**: 30 fps (frames per second)  
+- **Pixel size**: 109.7 nm/pixel  
 
 ---
 
