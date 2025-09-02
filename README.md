@@ -18,10 +18,11 @@ This DeepTrackAI repository contains a 500-frame movie of quantum dots (Qdot655)
 ## Original Source
 
 - **Title**: Quantum Dots Dataset  
-- **Authors**: Montse Masoliver, Sergi Masó-Orriols, Marta Cullell-Dalmau, Joan Bertran, and Carlo Manzo    
+- **Authors**: Montse Masoliver-Prieto, Sergi Masó-Orriols, Marta Cullell-Dalmau, Joan Bertran, Carlo Manzo  
+- **Source**: This repository  
 - **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-If you use this dataset, please follow the licensing requirements and provide proper attribution to the original authors.
+If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
 
 ---
 
